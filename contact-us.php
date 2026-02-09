@@ -1073,7 +1073,7 @@ session_start();
             </center>
             <div class="form-container">
                 <div class="form-section">
-                    <div class="appointment-buttons-wrapper">
+                    <div class="appointment-buttons-wrapper" style="pointer-events: none; opacity: 0; z-index: -100; position: relative;">
                         <div><a style='display: block'
                                 href='https://www.zocdoc.com/practice/dr-parmar-family-dentist-151590?lock=true&isNewPatient=false&referrerType=widget'
                                 class='zd-plugin' data-type='book-button' data-practice-id='151590'
