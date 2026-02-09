@@ -1,0 +1,454 @@
+.header-background
+{
+    
+    background: #000;
+}
+
+.logo
+{
+    width: auto;
+    max-width: 100%;
+}
+.clear { clear: both; }
+.top-bar {  background: #fff; margin: 0;}
+.top-header { width: 100%;padding: 10px 0 0 0; display: inline-block;vertical-align: middle;}
+.top-header .span6 { float: left;width: 50%; }
+.top-header .span6 .top-contact ul { padding: 0;margin: 0; }
+.top-header .span6 .top-contact ul li a { color: #000; }
+.top-header .span6 .top-contact ul li a i { margin: 0 10px 0 0; }
+.top-header .span6 .social-links { float: right; }
+.top-header .span6 .social-links ul { list-style: none;display: inline-block;width: 100%;margin: 0;padding: 0; }
+.top-header .span6 .social-links ul li { float: left; }
+.top-header .span6 .social-links ul li a { color: #000;float: left;width: 36px;height: 36px;text-align: center;line-height: 35px;border-radius: 50%;border: 2px solid #000;margin: 0 10px 0 0; }
+.top-head { float: left;width: 240px; }
+nav.navbar { padding: 16px 0 0 0; }
+nav.navbar ul li { padding: 0 3px; }
+nav.navbar ul.navbar-nav li a.nav-link { padding: 8px 4px; font-size: 13px;}
+.foot-map iframe{height: 450px; width: 100%; }
+.banner
+{
+    background-image: url("../images/home/banner.jpg");
+        width: 100%;
+  height: 500px;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.home-about
+{
+    background: #fff;
+}
+
+.home-testimonials
+{
+    background: #ddd;
+}
+
+.banner-book-appointment
+{
+    margin-top:30px;
+    margin-bottom:30px;
+    color:#fff;
+    background:#000;
+    border:0;
+    font-weight:bold;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+    box-shadow:2px 5px 10px #222;
+    border-radius:10px;
+}
+
+
+
+.home-services
+{
+    background-image: url("../images/home/back.jpg");
+        width: 100%;
+  height: 100%;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.services-read-more
+{
+    margin-top:30px;
+    margin-bottom:30px;
+    color:#fff;
+    background:#000;
+    border:0;
+    font-weight:bold;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    box-shadow:2px 5px 10px #222;
+    border-radius:10px;
+}
+
+.about-banner
+{
+    background-image: url("../images/about/about-banner.jpg");
+        width: 100%;
+  height: 250px;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.about-heading
+{
+    font-size:32pt;
+    font-weight:500;
+    color:#000;
+    margin-top:-60px;
+    padding-top:0
+}
+
+.gallery-banner
+{
+    background-image: url("../images/gallery/gallery-of-smiles.jpg");
+        width: 100%;
+  height: 250px;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.denturelab-banner
+{
+    background-image: url("../images/denturelab/banner.jpg");
+        width: 100%;
+  height: 250px;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.contact-banner
+{
+    background-image: url("../images/contactus/banner.jpg");
+        width: 100%;
+  height: 250px;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.fornewpatient-banner
+{
+    background-image: url("../images/fornewpatients/banner.jpg");
+        width: 100%;
+  height: 250px;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.services-banner
+{
+    background-image: url("../images/services/services.jpg");
+        width: 100%;
+  height: 250px;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.contact-send
+{
+    position:absolute;
+    bottom:0;
+    background:#c8ad56;
+    border:0;
+    padding-left:40px;
+    padding-right:40px;
+    color:#000;
+    font-weight:600;
+}
+
+
+.contact-main-div
+{
+    background-image: url("../images/contactus/backpage.jpg");
+        width: 100%;
+  height: 100%;
+  background-position: center center;
+    background-size: 100% 100%;
+  background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.testimonial-height
+{
+    height: 200px;
+}
+
+.testimonial-text
+{
+    padding:0 120px;
+    font-size:12pt;
+    line-height:30px
+}
+
+.for-new-p-practice
+{
+    font-size:14pt;
+    margin-top:20px;
+    color:#444;
+    padding-left:80px;
+    padding-right:80px
+}
+
+.gallery-denture-img
+{
+    width:100%;
+    padding:20px 10px;
+    height:250px;
+}
+
+.gallery-implant-denture-img
+{
+    width:100%;
+    padding:20px 10px;
+    height:300px;
+}
+
+.gallery-gold-crown-img
+{
+    width:100%;
+    padding:20px 10px;
+    height:400px;
+}
+
+@media screen and (max-width: 1199px) {
+    nav.navbar ul li { padding: 0 2px; }
+    nav.navbar ul.navbar-nav li a.nav-link { padding: 8px 4px;font-size: 12px; }
+    .top-head { width: 200px; }
+    .header-background nav.navbar { display: inline-block; padding: 10px 0 0 0;}
+    .header-background nav.navbar button { margin: 0 !important; }
+}
+
+@media screen and (max-width: 992px) {
+  .logo {
+    width: 100%;
+  }
+    
+    .banner
+    {
+        background-size: auto 100%;  
+        height: 600px;
+    }
+    
+    .home-services
+    {
+        background-size: auto 100%;  
+    }
+
+    .about-banner
+    {
+        /*height: 105px;*/
+    }
+    
+    .about-heading
+    {
+        font-size:20pt;
+    }
+
+
+    .gallery-banner
+    {
+        height: 105px;
+    }
+
+    .denturelab-banner
+    {
+        height: 105px;
+    }
+
+    .contact-banner
+    {
+        height: 105px;
+    }
+
+    .fornewpatient-banner
+    {
+        height: 105px;
+    }
+
+    .services-banner
+    {
+      height: 105px;
+    }
+    
+    .contact-send-div
+    {
+      text-align: center;
+    }
+    
+    .contact-send
+    {
+        position:relative;
+        margin-top: 20px;
+    }
+    
+    .contact-main-div
+    {
+        background-size: auto 100%;  
+    }
+    
+    .text-center-op
+    {
+        text-align: center;
+    }
+    
+    .testimonial-height
+    {
+        height: 500px;
+    }
+    
+    .testimonial-text
+    {
+        padding:0 50px;
+    }
+    
+    .padding-top-20
+    {
+        padding-top: 20px;   
+    }
+    
+    .for-new-p-practice
+    {
+        padding-left:20px;
+        padding-right:20px
+    }
+    
+    .gallery-denture-img
+    {
+        height:auto;
+    }
+
+    .gallery-implant-denture-img
+    {
+        height:auto;
+    }
+    
+    .gallery-gold-crown-img
+    {
+        height:auto;
+    }
+
+}
+    @media screen and (max-width: 991px) {
+
+    .header-background .row.top-bar { display: flex; }
+    .header-background .row { display: unset;margin: 0; }
+    .header-background .row .span12 .head { display: inline-block;vertical-align: middle;width: 100%; position: relative;}
+    .header-background nav.navbar { margin: 48px 0 0 0; width: 100%;position: unset;display: block;}
+    .header-background nav.navbar button { position: absolute;right: 0;top: 14%;}
+    .header-background nav.navbar .navbar-collapse { position: absolute;width: 100%;background: #fff;padding: 15px; box-shadow: 0 0 5px #ccc;z-index: 99; }
+    .header-background nav.navbar .navbar-collapse ul li a { color: #000; }
+    .header-background nav.navbar .navbar-collapse ul li a:hover { color: #c8ad56; }
+    .header-background nav.navbar .navbar-collapse ul li.active a { color: #c8ad56; }
+}
+
+
+
+ .navbar-brand {
+            position: relative;
+            z-index: 2;
+        }
+        
+        .navbar-nav.navbar-right .btn {
+            position: relative;
+            z-index: 2;
+            padding: 4px 20px;
+            margin: 10px auto;
+        }
+        
+        .navbar .navbar-collapse {
+            position: relative;
+        }
+        
+        .navbar .navbar-collapse .navbar-right > li:last-child {
+            padding-left: 22px;
+        }
+        
+        .navbar .nav-collapse {
+            position: absolute;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: 0;
+            padding-right: 120px;
+            padding-left: 80px;
+            width: 100%;
+        }
+        
+        .navbar.navbar-default .nav-collapse {
+            background-color: #f8f8f8;
+        }
+        
+        .navbar.navbar-inverse .nav-collapse {
+            background-color: #222;
+        }
+        
+        .navbar .nav-collapse .navbar-form {
+            border-width: 0;
+            box-shadow: none;
+        }
+        
+        .nav-collapse>li {
+            float: right;
+        }
+        
+        .btn.btn-circle {
+            border-radius: 50px;
+        }
+        
+        .btn.btn-outline {
+            background-color: transparent;
+        }
+        
+        @media screen and (max-width: 767px) {
+            .navbar .navbar-collapse .navbar-right > li:last-child {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            .navbar .nav-collapse {
+                margin: 7.5px auto;
+                padding: 0;
+            }
+            .navbar .nav-collapse .navbar-form {
+                margin: 0;
+            }
+            .nav-collapse>li {
+                float: none;
+            }
+            .foot-map iframe { height: 200px !important; }
+        }
+        @media screen and (max-width: 414px) {
+            .top-header .span6 .social-links ul li a { width: 30px;height: 30px;line-height: 27px;margin: 0 4px 0 0; }
+        }
+
+
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+.MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+.MultiCarousel .MultiCarousel-inner .item { float: left;}
+.MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#fff; color:#666;}
+.MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute;top:calc(50% - 20px); background:#fff;color:#000;border:0;font-size: 20pt}
+.MultiCarousel .leftLst { left:0; }
+.MultiCarousel .rightLst { right:0; }
+.MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#fff;color:#000;border:0;font-size: 20pt}
+
+p.tel_num a
+{
+    color: #c8ad56 !important;
+    text-decoration: none !important;
+}
