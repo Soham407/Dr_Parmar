@@ -12,7 +12,7 @@
             <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
                 <p style="padding-top:20px;color:#999;font-size:14pt;">549 H Street, Suite A, Chula Vista, California, 91910</p>
                 <p style="padding-top:15px;color:#999;font-size:15pt;"><i>Call us to schedule your appointment today!</i></p>
-                <p style="padding-top:15px;color:#c8ad56;font-size:20px;font-weight:bold" class="tel_num"><a href="tel:+16194266891">619-426-6891</a></p>
+                <p style="padding-top:15px;color:#c8ad56;font-size:20px;font-weight:bold" class="tel_num"><a href="tel:+16194266891">+16194266891</a></p>
                 <p style="padding :10px;color:#999;font-size:18px;border: 2px solid #c8ad56;border-radius:10px;">Complimentary parking located in the rear of the building.</p>
                 <ul style="list-style: none;padding: 28px 0 0 0;display: inline-block;width: 100%;margin: 0;padding: 0 0 10px 0;">
                   <li><a href="https://www.facebook.com/DrParmarFamilyDentist" style="color: #c8ad56;float: left;width: 40px;height: 40px;text-align: center;line-height: 37px;border-radius: 50%;border: 2px solid #c8ad56;margin: 0 10px 0 0;"><i class="fa fa-facebook-f" aria-hidden="true"></i></a></li>

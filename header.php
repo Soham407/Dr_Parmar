@@ -25,7 +25,7 @@
         <div class="span6">
             <div class="top-contact">
               <ul style="list-style: none;padding: 6px 0 0 0;">
-                <li><a href="tel:+16194266891"><i class="fa fa-phone" aria-hidden="true"></i> +1 619 426 6891</a></li>
+                <li><a href="tel:+16194266891"><i class="fa fa-phone" aria-hidden="true"></i> +16194266891</a></li>
               </ul>
             </div>
         </div>

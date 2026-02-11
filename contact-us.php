@@ -1085,7 +1085,7 @@ session_start();
 
                         <img src="images/heroimg.svg" alt="Hero image" class="call-to-action-img" loading="lazy"
                             onclick="window.location.href='tel:+16194266891'" role="button"
-                            aria-label="Call 619-426-6891">
+                            aria-label="Call +16194266891">
                     </div>
                 </div>
                 <div class="office-hours">

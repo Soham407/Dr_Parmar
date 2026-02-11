@@ -3,7 +3,7 @@
    
    <head>
       <title>Same Day Denture Repair Chula Vista, In House Denture Lab California - Dr. Parmars</title>
-      <meta name="Description" content="Same day denture repair in-house lab in Chula Vista. At Dr. Parmars, we have in-house denture lab where we provide same day denture repair treatments. For appointment call us: 619-426-6891" />
+      <meta name="Description" content="Same day denture repair in-house lab in Chula Vista. At Dr. Parmars, we have in-house denture lab where we provide same day denture repair treatments. For appointment call us: +16194266891" />
       <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
        
        

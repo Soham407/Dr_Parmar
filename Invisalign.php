@@ -162,7 +162,7 @@ object-fit: cover;
 </div>
 
 <div style="margin-top:20px;">
-<a href="tel:+16194266891" class="btn" style="background:#c8ad56; color:#111; font-weight:600;">Call +1 619 426 6891</a>
+<a href="tel:+16194266891" class="btn" style="background:#c8ad56; color:#111; font-weight:600;">Call +16194266891</a>
 <a href="contact-us.php" class="btn btn-outline-secondary" style="margin-left:10px;">Request a Consultation</a>
 </div>
 </div>

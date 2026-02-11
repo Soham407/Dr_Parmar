@@ -4,7 +4,7 @@
 <head>
     <title>Best Family Dentistry Chula Vista Ca , Super Dentist, Dentistas En Chula Vista - Dr. Parmars</title>
     <meta name="Description"
-        content="Best family dentistry in Chula Vista California. Dr. Parmars Family Dentistry has super team of dentist expertise in family, and cosmetic dentistry serving from more than 30 years. Schedule your Dentistas En Chula Vista appointment now: +1 619-426-6891" />
+        content="Best family dentistry in Chula Vista California. Dr. Parmars Family Dentistry has super team of dentist expertise in family, and cosmetic dentistry serving from more than 30 years. Schedule your Dentistas En Chula Vista appointment now: +16194266891" />
     <meta name="viewport" content="width = device-width, initial-scale = 1.0">
     <meta name="google-site-verification" content="-tawOPNJXSdO3F5Dw0fpcY1WOnDIHhbn21kA0gtAMtw" />
 
@@ -523,6 +523,13 @@
                 align-items: center;
             }
 
+            /* Center the Call Now button container on mobile */
+            .banner .col-lg-6.col-xs-6 > div:first-of-type {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
             .banner .Hero_button a {
                 display: inline-block;
             }
@@ -593,6 +600,11 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-6 col-xs-6" style="text-align:left; padding-top:50px ; padding-left:30px">
+                        <div style="position: relative; z-index: 1; margin-bottom: 8px;">
+                            <a href="tel:+16194266891" class="btn" style="display: block; width: 162px; background-color: #ffffff; color: #000000; border: 1px solid #000000; padding: 12px 24px; font-weight: 600; text-decoration: none; text-align: center; font-size: 16px; border-radius: 4px; cursor: pointer;">
+                                Call Now
+                            </a>
+                        </div>
                         <div class="Hero_button" style="pointer-events: none; opacity: 0;">
                             <a style='display: block'
                                 href='https://www.zocdoc.com/practice/dr-parmar-family-dentist-151590?lock=true&isNewPatient=false&referrerType=widget'
@@ -618,7 +630,7 @@
                         <img src="images/heroimg.svg" alt="Hero image"
                             style="max-width:50%;height:auto; margin-bottom:20px; cursor:pointer;" loading="lazy"
                             onclick="window.location.href='tel:+16194266891'" role="button"
-                            aria-label="Call +1 619-426-6891">
+                            aria-label="Call +16194266891">
                         <h4 style="color:#000;margin-bottom:10px; font-weight:800; t">Best Rated Dentist in Chula Vista,
                             San Diego.</h4>
 

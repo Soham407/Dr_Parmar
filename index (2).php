@@ -4,7 +4,7 @@
 <html lang="en">   
    <head>
       <title>Best Family Dentistry Chula Vista Ca , Super Dentist, Dentistas En Chula Vista  - Dr. Parmars</title>
-      <meta name="Description" content="Best family dentistry in Chula Vista California. Dr. Parmars Family Dentistry has super team of dentist expertise in family, and cosmetic dentistry serving from more than 30 years. Schedule your Dentistas En Chula Vista appointment now: 619-426-6891" />
+      <meta name="Description" content="Best family dentistry in Chula Vista California. Dr. Parmars Family Dentistry has super team of dentist expertise in family, and cosmetic dentistry serving from more than 30 years. Schedule your Dentistas En Chula Vista appointment now: +16194266891" />
       <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
       <meta name="google-site-verification" content="-tawOPNJXSdO3F5Dw0fpcY1WOnDIHhbn21kA0gtAMtw" />
        

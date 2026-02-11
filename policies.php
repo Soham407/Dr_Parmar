@@ -235,7 +235,7 @@ session_start();
                     Nirmal M. Shah DDS, MPH<br>
                     549 H Street Ste. A<br>
                     Chula Vista CA 91910<br>
-                    (619) 426-6891</b>
+                    +16194266891</b>
             </p>
             <p>If you are concerned that we may have violated your privacy rights, or you disagree with a 
             decision we made about access to your health information or in response to a request you made to 
