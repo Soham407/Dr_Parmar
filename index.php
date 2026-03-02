@@ -472,29 +472,28 @@
         .banner .reviews-link {
             display: inline-flex;
             align-items: center;
-            gap: 8px;
-            margin-top: 12px;
-            color: #ffffffff;
-            font-weight: 600;
+            margin-top: 10px;
+            margin-bottom: 20px;
             text-decoration: none;
-            font-size: 16px;
-            /* filter: drop-shadow(0 0 1px #000) drop-shadow(0 0 1px #000) drop-shadow(0 0 1px #000); */
         }
 
         .banner .reviews-link img.google-icon {
-            height: 50px;
+            height: 140px;
             width: auto;
-            margin-right: 6px;
+            max-width: 100%;
             display: inline-block;
             vertical-align: middle;
             filter: drop-shadow(0 0 1px #000) drop-shadow(0 0 1px #000) drop-shadow(0 0 2px #000);
-            /* filter: grayscale(100%) brightness(0) saturate(100%);
-    -webkit-filter: grayscale(100%) brightness(0) saturate(100%); */
+            transition: transform 0.3s ease;
+        }
+
+        .banner .reviews-link:hover img.google-icon {
+            transform: scale(1.05);
         }
 
         .banner .reviews-link:hover {
-            /* color: #3a00c1ff;  */
-            /* text-decoration: underline;  */
+            color: #ffffff;
+            opacity: 0.9;
         }
 
         /* Mobile-only styles for Hero Section */
@@ -524,7 +523,7 @@
             }
 
             /* Center the Call Now button container on mobile */
-            .banner .col-lg-6.col-xs-6 > div:first-of-type {
+            .banner .col-lg-6.col-xs-6>div:first-of-type {
                 display: flex;
                 justify-content: center;
                 align-items: center;
@@ -537,6 +536,12 @@
             /* Center the reviews link - only in banner */
             .banner .reviews-link {
                 justify-content: center;
+                margin-top: 8px;
+                margin-bottom: 15px;
+            }
+
+            .banner .reviews-link img.google-icon {
+                height: 100px;
             }
         }
 
@@ -594,14 +599,16 @@
             <div style="padding-top:12%;">
                 <div class="row" style="padding-left:20px;">
                     <div class="col-md-6">
-                        <h1 style="color:#000; font-weight:800;">Gentle. Caring. Experienced. Your Smile, Our Priority
+                        <h1 style="color:#fff; font-weight:800; text-shadow: 1px 1px 3px rgba(0,0,0,0.5);">Gentle.
+                            Caring. Experienced. Your Smile, Our Priority
                         </h1>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6 col-xs-6" style="text-align:left; padding-top:50px ; padding-left:30px">
                         <div style="position: relative; z-index: 1; margin-bottom: 8px;">
-                            <a href="tel:+16194266891" class="btn" style="display: block; width: 162px; background-color: #ffffff; color: #000000; border: 1px solid #000000; padding: 12px 24px; font-weight: 600; text-decoration: none; text-align: center; font-size: 16px; border-radius: 4px; cursor: pointer;">
+                            <a href="tel:+16194266891" class="btn"
+                                style="display: block; width: 162px; background-color: #ffffff; color: #000000; border: 1px solid #000000; padding: 12px 24px; font-weight: 600; text-decoration: none; text-align: center; font-size: 16px; border-radius: 4px; cursor: pointer;">
                                 Call Now
                             </a>
                         </div>
@@ -614,16 +621,15 @@
                                     alt='Dr. Parmar Family Dentist' title='Dr. Parmar Family Dentist'
                                     style='border: 0' /></a>
                         </div>
-                        <div style="margin-top:8px;">
+                        <div style="margin-top: -60px; position: relative; z-index: 2;">
                             <a href="testimonials.php" class="reviews-link" aria-label="Read our reviews">
-                                <img src="images/Google_Review_logo_PNG_(3).png" alt="Google Reviews"
-                                    class="google-icon" aria-hidden="true" />
-                                More than 350+ reviews
+                                <img src="images/google_badge.avif" alt="Google Reviews" class="google-icon"
+                                    aria-hidden="true" />
                             </a>
                         </div>
-                       
+
                         <script>(function (d) { var script = d.createElement('script'); script.type = 'text/javascript'; script.async = true; script.src = 'https://offsiteschedule.zocdoc.com/plugin/embed'; var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s); })(document);</script>
-                    
+
                     </div>
 
                     <div class="col-lg-6 col-xs-6" style="text-align:center">

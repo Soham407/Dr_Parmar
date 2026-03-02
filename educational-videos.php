@@ -371,7 +371,7 @@
                     <div class="video-section">
                         <h4>Extraction and Bone Graft and Implants</h4>
                         <div class="video-container">
-                            <iframe src="https://www.youtube.com/embed/CJLjlZk6-14" allowfullscreen></iframe>
+                            <iframe src="https://www.youtube.com/embed/8eofvci8gRw" allowfullscreen></iframe>
                         </div>
                     </div>
 
