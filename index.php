@@ -607,14 +607,14 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6 col-xs-6" style="text-align:left; padding-top:50px ; padding-left:30px">
+                    <div class="col-lg-6 col-xs-6" style="text-align:left; padding-top:20px ; padding-left:30px">
                         <div style="position: relative; z-index: 1; margin-bottom: 8px;">
                             <a href="tel:+16194266891" class="btn"
                                 style="display: block; width: 162px; background-color: #ffffff; color: #000000; border: 1px solid #000000; padding: 12px 24px; font-weight: 600; text-decoration: none; text-align: center; font-size: 16px; border-radius: 4px; cursor: pointer;">
                                 Call Now
                             </a>
                         </div>
-                        <div class="Hero_button" style="pointer-events: none; opacity: 0;">
+                        <div class="Hero_button" style="pointer-events: none; opacity: 0; position: absolute; z-index: -1;">
                             <a style='display: block'
                                 href='https://www.zocdoc.com/practice/dr-parmar-family-dentist-151590?lock=true&isNewPatient=false&referrerType=widget'
                                 class='zd-plugin' data-type='book-button' data-practice-id='151590'
@@ -623,7 +623,7 @@
                                     alt='Dr. Parmar Family Dentist' title='Dr. Parmar Family Dentist'
                                     style='border: 0' /></a>
                         </div>
-                        <div style="margin-top: -60px; position: relative; z-index: 2;">
+                        <div style="position: relative; z-index: 2;">
                             <a href="testimonials.php" class="reviews-link" aria-label="Read our reviews">
                                 <img src="images/google_badge.avif" alt="Google Reviews" class="google-icon"
                                     aria-hidden="true" />
