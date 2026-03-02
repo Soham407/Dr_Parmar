@@ -472,15 +472,16 @@
         .banner .reviews-link {
             display: inline-flex;
             align-items: center;
-            margin-top: 10px;
+            margin-top: -30px;
+            margin-left: -25px;
             margin-bottom: 20px;
             text-decoration: none;
         }
 
         .banner .reviews-link img.google-icon {
-            height: 140px;
+            height: 200px;
             width: auto;
-            max-width: 100%;
+            max-width: 200%;
             display: inline-block;
             vertical-align: middle;
             filter: drop-shadow(0 0 1px #000) drop-shadow(0 0 1px #000) drop-shadow(0 0 2px #000);
@@ -541,7 +542,8 @@
             }
 
             .banner .reviews-link img.google-icon {
-                height: 100px;
+                margin-left: 25px;
+                height: 150px;
             }
         }
 
