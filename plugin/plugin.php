@@ -68,7 +68,7 @@ include "config.php";
 
           <!-- Modal Header -->
           <div class="modal-header" style="background-color : red;" id="header-div">
-            <img src="plugin/images/left-arrow.png" onclick="backDiv()" width = "20px" height = "20px" style = "margin-right : 10px;margin-top : 7px;cursor : pointer;display : none" id="backbutton"/>
+            <img src="plugin/images/left-arrow.png" alt="Back" onclick="backDiv()" width = "20px" height = "20px" style = "margin-right : 10px;margin-top : 7px;cursor : pointer;display : none" id="backbutton"/>
             <h4 class="modal-title">Start Virtual Appointment</h4>
             <button type="button" class="close" data-dismiss="modal" id="close">&times;</button>
           </div>
@@ -76,10 +76,10 @@ include "config.php";
           <div class="modal-body">
                <form method="post" enctype="multipart/form-data" id="frmSanpSmile" name="frmSanpSmile">
                   <input type="hidden" name="key" id="key" value="<?php echo KEY; ?>">
-                  <input type="hidden" name="successurl" id="successurl" value="http://drparmars.com/appointmentsaved.php">
-                  <input type="hidden" name="failureurl" id="failureurl" value="http://drparmars.com/appointmentnotsaved.php">
-                  <input type="hidden" name="uploadphotourl" id="uploadphotourl" value="http://drparmars.com/uploadphotos.php">
-                  <input type="hidden" name="successlinksent" id="successlinksent" value="http://drparmars.com/linksent.php">
+                  <input type="hidden" name="successurl" id="successurl" value="https://drparmars.com/appointmentsaved.php">
+                  <input type="hidden" name="failureurl" id="failureurl" value="https://drparmars.com/appointmentnotsaved.php">
+                  <input type="hidden" name="uploadphotourl" id="uploadphotourl" value="https://drparmars.com/uploadphotos.php">
+                  <input type="hidden" name="successlinksent" id="successlinksent" value="https://drparmars.com/linksent.php">
                   
                    <div id="page1" style="display : none">
                        <div class="card">

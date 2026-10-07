@@ -232,7 +232,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/dravaniparmar.png" style="height:200px;">
+                           <img src="images/about/dravaniparmar.png" alt="Dr. Avani Parmar, dentist" style="height:200px;">
 
                        </div>
 
@@ -274,7 +274,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/drnirmalshah1.png" style="height:200px;">
+                           <img src="images/about/drnirmalshah1.png" alt="Dr. Nirmal Shah, dentist" style="height:200px;">
 
                        </div>
 
@@ -322,7 +322,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/arshiya.png" style="height:200px;">
+                           <img src="images/about/arshiya.png" alt="Dr. Arshiya Sharafi, dentist" style="height:200px;">
 
                        </div>
 
@@ -360,7 +360,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/drthomas.jpg" style="height:200px;">
+                           <img src="images/about/drthomas.jpg" alt="Dr. Thomas Acierno, dentist" style="height:200px;">
 
                        </div>
 
@@ -400,7 +400,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/edensamson.PNG" style="height:200px;">
+                           <img src="images/about/edensamson.PNG" alt="Eden Samson, team member" style="height:200px;">
 
                        </div>
 
@@ -431,7 +431,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/vazquez.PNG" style="height:200px;">
+                           <img src="images/about/vazquez.PNG" alt="Beatriz Avina, team member" style="height:200px;">
 
                        </div>
 
@@ -461,7 +461,7 @@
 
  <!--                      <div class="col-md-3">
 
-                           <img src="images/about/pamcollier.PNG" style="height:200px;">
+                           <img src="images/about/pamcollier.PNG" alt="Pamela Collier, team member" style="height:200px;">
 
                        </div>
   
@@ -491,7 +491,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/patricia.PNG" style="height:200px;">
+                           <img src="images/about/patricia.PNG" alt="Patricia Banuelos, team member" style="height:200px;">
 
                        </div>
 
@@ -522,7 +522,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/sandra.PNG" style="height:200px;">
+                           <img src="images/about/sandra.PNG" alt="Sandra Rickel, team member" style="height:200px;">
 
                        </div>
 
@@ -553,7 +553,7 @@
 
                        <div class="col-md-3">
 
-                           <img src="images/about/Elia-1.png" style="height:200px;">
+                           <img src="images/about/Elia-1.png" alt="Elia Muchacha, team member" style="height:200px;">
 
                        </div>
 
@@ -586,7 +586,7 @@ Outside the office, Ellie is all about adventure and joy. She loves spending tim
 
                        <div class="col-md-3">
 
-                           <img src="images/about/bella.PNG" style="height:200px;">
+                           <img src="images/about/bella.PNG" alt="Bella, team member" style="height:200px;">
 
                        </div>
 
@@ -624,19 +624,19 @@ Outside the office, Ellie is all about adventure and joy. She loves spending tim
                    <div class="row" >
 
                        <div class="col-md-5" style="text-align:center;padding-left:0;padding-right:0">
-                           <img src="images/home/tooth.png" style="padding:5px;">
+                           <img src="images/home/tooth.png" alt="Tooth illustration: where art meets dentistry" style="padding:5px;">
                            <h5 style="color:#c8ad56;margin-top:20px;font-weight:bold">Where Art meets Dentistry</h5>
                            <hr style="width:30%;border:3px solid #000">
                        </div>
                        
                        <div class="col-md-7" style="text-align:center;padding-left:0;padding-right:0">
-                           <img src="images/home/smiling.png" style="padding:8px;">
+                           <img src="images/home/smiling.png" alt="Smiling patient" style="padding:8px;">
                            <h5 style="color:#c8ad56;margin-top:20px;font-weight:bold">Where Passion and Smiles Work Together</h5>
                            <hr style="width:30%;border:3px solid #000">
                        </div>
                        
                        <div class="col-md-12" style="text-align:center;padding-left:0;padding-right:0">
-                           <img src="images/about/family-back.jpg">
+                           <img src="images/about/family-back.jpg" alt="Family smiling together">
                            <h5 style="color:#c8ad56 ;margin-top:20px;font-weight:bold">We treat you like family</h5>
                            <hr style="width:30%;border:3px solid #000">
                        </div>

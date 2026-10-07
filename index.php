@@ -816,7 +816,7 @@
                         <div class="item">
                             <div class="pad15">
                                 <a href="about-us.php#drarshiya">
-                                    <img src="images/home/arshiya.png">
+                                    <img src="images/home/arshiya.png" alt="Dr. Arshiya Sharafi">
                                     <h5 style="margin-top:30px;color:#666">Dr. Arshiya Sharafi</h5>
                                 </a>
                             </div>
@@ -825,7 +825,7 @@
                         <div class="item">
                             <div class="pad15">
                                 <a href="about-us.php#drthomas">
-                                    <img src="images/home/drthomas.png">
+                                    <img src="images/home/drthomas.png" alt="Dr. Thomas Acierno">
                                     <h5 style="margin-top:30px;color:#666">Dr. Thomas Acierno</h5>
                                 </a>
                             </div>

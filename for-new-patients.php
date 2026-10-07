@@ -76,14 +76,14 @@
                
                 <div class="row">
                     <div class="col-md-6" style="text-align:center;padding-top:50px;padding-bottom:50px">
-                        <img src="images/home/bigyellowdot.PNG">
+                        <img src="images/home/bigyellowdot.PNG" alt="">
                         <div style="text-align:center;margin-top:20px;"><h4 style="font-weight:bold">OFFICE VISITS</h4>
                         <p style="font-size:14pt;margin-top:10px;color:#222">Your first visit is all about YOU:</p>
                         <p style="font-size:16pt;margin-top:10px;color:#444">Your Comfort, Your Happiness, and Your Health</p>
                             </div>
                   </div>
                     <div class="col-md-6" style="text-align:center;padding-top:60px;padding-bottom:60px">
-                        <img src="images/home/bigyellowdot.PNG">
+                        <img src="images/home/bigyellowdot.PNG" alt="">
 
 
                         <p class="for-new-p-practice">Our practice is committed to providing you and your family with safe, gentle, high-quality dental care.</p>

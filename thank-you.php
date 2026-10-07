@@ -53,7 +53,7 @@
             </div>
        </div>
        <div class="container" style="margin-top:60px;margin-bottom:80px;text-align: center;">
-          <img src="images/thank-you.png" alt=" " / style="max-width: 100%;">
+          <img src="images/thank-you.png" alt="Thank you" style="max-width: 100%;">
           <p style="margin-top:40px;font-size:14pt;color:#444;text-align: center;">Your message has been successfully sent. We will contact you very soon!</p>
        </div>
 

@@ -68,7 +68,7 @@ include "config.php";
 
           <!-- Modal Header -->
           <div class="modal-header" style="background-color : red;" id="header-div">
-            <img src="plugin/images/left-arrow.png" onclick="backDiv()" width = "20px" height = "20px" style = "margin-right : 10px;margin-top : 7px;cursor : pointer;display : none" id="backbutton"/>
+            <img src="plugin/images/left-arrow.png" alt="Back" onclick="backDiv()" width = "20px" height = "20px" style = "margin-right : 10px;margin-top : 7px;cursor : pointer;display : none" id="backbutton"/>
             <h4 class="modal-title">Start Virtual Appointment</h4>
             <button type="button" class="close" data-dismiss="modal" id="close">&times;</button>
           </div>
